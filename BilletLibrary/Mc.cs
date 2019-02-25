@@ -2,8 +2,7 @@
 
 namespace BilletLibrary
 {
-    public class Mc
-    {
+    
         public class Mc : BaseClass
         {
             public Mc(string nummerPlade, DateTime dato) : base(nummerPlade, dato)
@@ -16,7 +15,7 @@ namespace BilletLibrary
             {
                 if (broBizz == true)
                 {
-                    double rabat = 0.95 * 240;
+                    double rabat = 0.95 * 125;
                     return rabat;
                 }
                 return 240;
@@ -28,4 +27,3 @@ namespace BilletLibrary
             }
         }
     }
-}
