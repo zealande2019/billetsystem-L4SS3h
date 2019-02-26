@@ -7,3 +7,4 @@ C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\bin\Debug\netcore
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.pdb
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.dll
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml

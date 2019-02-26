@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:BilletLibrary.BaseClass.#ctor(System.String,System.DateTime)">
+            <summary>
+            Constructor hvor længden af nummerplade tjekkes.
+            Hvis nummerplader er for bliver der kastet en ny argument exception.
+            </summary>
+            <param name="nummerPlade"></param>
+            <param name="dato"></param>
+        </member>
+        <member name="M:BilletLibrary.BaseClass.Type">
+            <summary>
+            Abstract metoder der bliver overskrevet i henholdsvis bil og mc.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.Pris">
+            <summary>
+            Hvis brobizz er sat til true i BaseClass.cs så regnes der en rabat
+            ellers er det bare en standard pris
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Bil.Type">
+            <summary>
+            Oversrkiver abstract metode fra BaseClass.cs
+            </summary>
+            <returns>bil</returns>
+        </member>
+        <member name="M:BilletLibrary.Mc.Pris">
+            <summary>
+            Hvis brobizz er sat til true i BaseClass.cs så regnes der en rabat
+            ellers er det bare en standard pris
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:BilletLibrary.Mc.Type">
+            <summary>
+            Overskriver metode fra BaseClass.cs
+            </summary>
+            <returns>mc</returns>
+        </member>
+    </members>
+</doc>

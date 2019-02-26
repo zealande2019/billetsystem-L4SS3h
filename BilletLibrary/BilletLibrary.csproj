@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\BilletLibrary.xml</DocumentationFile>
+  </PropertyGroup>
+
 </Project>
