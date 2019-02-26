@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.deps.json
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.dll
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.pdb
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csproj.CopyComplete
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.dll
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.pdb

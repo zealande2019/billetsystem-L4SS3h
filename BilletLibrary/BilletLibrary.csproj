@@ -8,4 +8,10 @@
     <DocumentationFile>C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\BilletLibrary.xml</DocumentationFile>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="BilletLibrary">
+      <HintPath>..\StoreBaeltLibrary\dll\BilletLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

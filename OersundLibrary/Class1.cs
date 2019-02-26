@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace StoreBaeltLibrary
+namespace OersundLibrary
 {
     public class Class1
     {
