@@ -1628,6 +1628,19 @@
           "bin/placeholder/BilletLibrary.dll": {}
         }
       },
+      "OersundLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "BilletLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OersundLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OersundLibrary.dll": {}
+        }
+      },
       "StoreBaeltLibrary/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -5836,6 +5849,11 @@
       "path": "../BilletLibrary/BilletLibrary.csproj",
       "msbuildProject": "../BilletLibrary/BilletLibrary.csproj"
     },
+    "OersundLibrary/1.0.0": {
+      "type": "project",
+      "path": "../OersundLibrary/OersundLibrary.csproj",
+      "msbuildProject": "../OersundLibrary/OersundLibrary.csproj"
+    },
     "StoreBaeltLibrary/1.0.0": {
       "type": "project",
       "path": "../StoreBaeltLibrary/StoreBaeltLibrary.csproj",
@@ -5849,6 +5867,7 @@
       "MSTest.TestFramework >= 1.3.2",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.1.0",
+      "OersundLibrary >= 1.0.0",
       "StoreBaeltLibrary >= 1.0.0"
     ]
   },
@@ -5884,6 +5903,9 @@
           "projectReferences": {
             "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\BilletLibrary\\BilletLibrary.csproj": {
               "projectPath": "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\BilletLibrary\\BilletLibrary.csproj"
+            },
+            "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\OersundLibrary\\OersundLibrary.csproj": {
+              "projectPath": "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\OersundLibrary\\OersundLibrary.csproj"
             },
             "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\StoreBaeltLibrary\\StoreBaeltLibrary.csproj": {
               "projectPath": "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\StoreBaeltLibrary\\StoreBaeltLibrary.csproj"

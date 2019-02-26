@@ -18,3 +18,5 @@ C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletTest\bin\Debug\netcoreapp
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletTest\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.pdb
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletTest\obj\Debug\netcoreapp2.1\BilletTest.csprojAssemblyReference.cache
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletTest\obj\Debug\netcoreapp2.1\BilletTest.csproj.CopyComplete
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletTest\bin\Debug\netcoreapp2.1\OersundLibrary.dll
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletTest\bin\Debug\netcoreapp2.1\OersundLibrary.pdb

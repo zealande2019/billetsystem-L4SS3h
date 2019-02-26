@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "OersundLibrary/1.0.0": {
+        "dependencies": {
+          "BilletLibrary": "1.0.0"
+        },
+        "runtime": {
+          "OersundLibrary.dll": {}
+        }
+      },
+      "BilletLibrary/1.0.0": {
+        "runtime": {
+          "BilletLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OersundLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BilletLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

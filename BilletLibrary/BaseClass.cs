@@ -17,7 +17,7 @@ namespace BilletLibrary
         {
             _nummerPlade = nummerPlade;
             _dato = dato;
-            broBizz = false;
+            broBizz = true;
             if (nummerPlade.Length > 7)
             {
                 throw new ArgumentException("Nummerplade er for lang!!");

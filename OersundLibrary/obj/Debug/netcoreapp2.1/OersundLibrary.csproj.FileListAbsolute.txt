@@ -1,0 +1,13 @@
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\bin\Debug\netcoreapp2.1\OersundLibrary.deps.json
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\bin\Debug\netcoreapp2.1\OersundLibrary.dll
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\bin\Debug\netcoreapp2.1\OersundLibrary.pdb
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\obj\Debug\netcoreapp2.1\OersundLibrary.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\obj\Debug\netcoreapp2.1\OersundLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\obj\Debug\netcoreapp2.1\OersundLibrary.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\obj\Debug\netcoreapp2.1\OersundLibrary.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\obj\Debug\netcoreapp2.1\OersundLibrary.csproj.CopyComplete
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\obj\Debug\netcoreapp2.1\OersundLibrary.dll
+C:\Users\lenovo\source\repos\billetsystem-L4SS3h\OersundLibrary\obj\Debug\netcoreapp2.1\OersundLibrary.pdb
