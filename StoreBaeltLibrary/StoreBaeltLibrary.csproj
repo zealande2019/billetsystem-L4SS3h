@@ -5,10 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="dll\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Reference Include="BilletLibrary">
       <HintPath>dll\BilletLibrary.dll</HintPath>
     </Reference>

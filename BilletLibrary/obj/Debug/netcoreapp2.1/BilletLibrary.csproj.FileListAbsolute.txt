@@ -9,3 +9,14 @@ C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcore
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.pdb
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.csproj.CopyComplete
+C:\source\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.csproj.CoreCompileInputs.cache
+C:\source\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfoInputs.cache
+C:\source\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.AssemblyInfo.cs
+C:\source\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\source\billetsystem-L4SS3h\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\billetsystem-L4SS3h\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\source\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.csproj.CopyComplete
+C:\source\billetsystem-L4SS3h\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.deps.json
+C:\source\billetsystem-L4SS3h\BilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.pdb
+C:\source\billetsystem-L4SS3h\BilletLibrary\obj\Debug\netcoreapp2.1\BilletLibrary.csprojAssemblyReference.cache

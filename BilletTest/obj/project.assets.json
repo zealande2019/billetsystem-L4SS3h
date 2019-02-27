@@ -5872,23 +5872,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lenovo\\.nuget\\packages\\": {},
+    "C:\\Users\\jacob\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\BilletTest\\BilletTest.csproj",
+      "projectUniqueName": "C:\\source\\billetsystem-L4SS3h\\BilletTest\\BilletTest.csproj",
       "projectName": "BilletTest",
-      "projectPath": "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\BilletTest\\BilletTest.csproj",
-      "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\BilletTest\\obj\\",
+      "projectPath": "C:\\source\\billetsystem-L4SS3h\\BilletTest\\BilletTest.csproj",
+      "packagesPath": "C:\\Users\\jacob\\.nuget\\packages\\",
+      "outputPath": "C:\\source\\billetsystem-L4SS3h\\BilletTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jacob\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5901,14 +5901,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\BilletLibrary\\BilletLibrary.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\BilletLibrary\\BilletLibrary.csproj"
+            "C:\\source\\billetsystem-L4SS3h\\BilletLibrary\\BilletLibrary.csproj": {
+              "projectPath": "C:\\source\\billetsystem-L4SS3h\\BilletLibrary\\BilletLibrary.csproj"
             },
-            "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\OersundLibrary\\OersundLibrary.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\OersundLibrary\\OersundLibrary.csproj"
+            "C:\\source\\billetsystem-L4SS3h\\OersundLibrary\\OersundLibrary.csproj": {
+              "projectPath": "C:\\source\\billetsystem-L4SS3h\\OersundLibrary\\OersundLibrary.csproj"
             },
-            "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\StoreBaeltLibrary\\StoreBaeltLibrary.csproj": {
-              "projectPath": "C:\\Users\\lenovo\\source\\repos\\billetsystem-L4SS3h\\StoreBaeltLibrary\\StoreBaeltLibrary.csproj"
+            "C:\\source\\billetsystem-L4SS3h\\StoreBaeltLibrary\\StoreBaeltLibrary.csproj": {
+              "projectPath": "C:\\source\\billetsystem-L4SS3h\\StoreBaeltLibrary\\StoreBaeltLibrary.csproj"
             }
           }
         }
