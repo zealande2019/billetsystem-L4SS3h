@@ -10,3 +10,15 @@ C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\net
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csproj.CopyComplete
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.dll
 C:\Users\lenovo\source\repos\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.pdb
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.deps.json
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.dll
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\StoreBaeltLibrary.pdb
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csprojAssemblyReference.cache
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csproj.CoreCompileInputs.cache
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.AssemblyInfoInputs.cache
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.AssemblyInfo.cs
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.csproj.CopyComplete
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.dll
+C:\source\billetsystem-L4SS3h\StoreBaeltLibrary\obj\Debug\netcoreapp2.1\StoreBaeltLibrary.pdb
